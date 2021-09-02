@@ -7,7 +7,7 @@ testing testing
 Sample Introduction
 
 ## Purpose
-
+Sample Purpose
 Sample website with plenty of files for demos
 
 ## Deployment
