@@ -5,6 +5,7 @@
 	Tim Horton	Thort@sq.com
 	Pat2
 	Edit Rebase
+	Stashing
     <name> -- <role> -- <twitter>
 
 # THANKS
