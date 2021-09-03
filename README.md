@@ -1,4 +1,5 @@
 # Starter Web Repo
+Stashing
 Pull with Rebase123
 Restore
 Conflict Master Trouble
@@ -8,6 +9,7 @@ This repository is for showing how Git and GitHub work
 testing testing
 
 ## Introduction 
+Stashing
 Sample Introduction 123
 Conflict
 Restore
