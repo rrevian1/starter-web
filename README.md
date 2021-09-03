@@ -1,5 +1,5 @@
 # Starter Web Repo
-Pull with Rebase 2
+Pull with Rebase1
 Restore
 Conflict Master Trouble
 Updating Rebasing
@@ -11,24 +11,24 @@ testing testing
 Sample Introduction 123
 Conflict
 Restore
-Pull with Rebase 2
+Pull with Rebase1
 
 ## Purpose
 Sample Purpose
 Sample website with plenty of files for demos
-Pull with Rebase 2
+Pull with Rebase1
 
 ## Deployment
 Sample Deployment 123
 Restore 
-Pull with Rebase 2
+Pull with Rebase1
 
 ## How To contribute
 Sample Contribute
 Sample Contribute 2
-Pull with Rebase
+Pull with Rebase1
 
 ### Copyright
 git training copyright
 Added TEAM
-Pull with Rebase 2
+Pull with Rebase
