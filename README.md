@@ -1,5 +1,6 @@
 # Starter Web Repo
-Rabsing Rebasing
+Rebasing Rebasing
+Updating Rebasing
 This repository is for showing how Git and GitHub work
 testing testing
 
