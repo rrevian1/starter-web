@@ -4,6 +4,7 @@
 # TEAM
 	Tim Horton	Thort@sq.com
 	Pat2
+	Edit Rebase
     <name> -- <role> -- <twitter>
 
 # THANKS
