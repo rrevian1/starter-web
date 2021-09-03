@@ -1,11 +1,12 @@
 # Starter Web Repo
-Rebasing Rebasing
+Conflict Big Trouble
 Updating Rebasing
 This repository is for showing how Git and GitHub work
 testing testing
 
 ## Introduction 
 Sample Introduction 123
+Conflict
 
 ## Purpose
 Sample Purpose
